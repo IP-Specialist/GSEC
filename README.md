@@ -4,7 +4,7 @@
 
 Welcome to the **GIAC Security Essentials (GSEC) Certification Course Repository** — a complete learning hub designed for cybersecurity learners, IT professionals, and certification candidates.
 
-This repository combines **structured course content + hands-on cybersecurity labs (step-by-step)** to help learners build strong foundational and practical skills aligned with the GSEC certification exam.
+This repository combines **hands-on cybersecurity labs (step-by-step)** to help learners build strong foundational and practical skills aligned with the GSEC certification exam.
 
 It bridges the gap between **theory and real-world cybersecurity practice**, covering essential domains such as networking, cloud security, cryptography, Linux, Windows, and incident response.
 
