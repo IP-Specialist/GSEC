@@ -24,15 +24,6 @@ This course follows a **structured, domain-based learning approach** supported b
 
 ## 📚 Course Structure
 
-### 📖 Study Guide Content
-- Core cybersecurity principles  
-- Network security fundamentals  
-- Cloud security concepts  
-- Operating system security (Windows, Linux, macOS)  
-- Cryptography and data protection  
-- Incident response and vulnerability management  
-
-### 🧪 Hands-On Labs
 This repository includes **step-by-step cybersecurity labs in text format**, covering:
 
 - Network traffic analysis basics  
